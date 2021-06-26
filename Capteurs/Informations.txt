@@ -12,5 +12,5 @@ nécessaire au fonctionnement du capteur de courant Alternatif.
     - Capteur de courant Alternatif ( SCT-013-000 )
   
   Les capteurs de tensions ainsi que le capteur de courant continu
-n'étant pas a notre disposition,
-nous n'avons pas pu faire de tests les concernants.
+n'étant pas a notre disposition nous n'avons pas pu faire de tests les concernants
+et ne les n'avons alors pas pu les inclures dans notre programme.
