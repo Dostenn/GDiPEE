@@ -2,7 +2,8 @@
 et si vous installez la bibliothèque "EmonLib.h",
 nécessaire au fonctionnement du capteur de courant Alternatif.
 
-  L'ensemble du programme marche via le Logiciel "Arduino IDE".
+  L'ensemble du programme est réalisé via le Logiciel "Arduino IDE",
+et marche sur une Arduino Uno ( compatible les autres types de arduinos ).
 
 
 
