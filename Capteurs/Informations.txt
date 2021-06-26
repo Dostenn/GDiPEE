@@ -1,0 +1,16 @@
+  Le programme réalisé marche correctement si vous suivez les branchements recommandé,
+et si vous installez la bibliothèque "EmonLib.h",
+nécessaire au fonctionnement du capteur de courant Alternatif.
+
+  L'ensemble du programme marche via le Logiciel "Arduino IDE".
+
+
+
+  Les capteurs utilisés furent :
+    - Girouette ( LEXCA 003 )
+    - Girouette et Anémomètre ( WIZARD III DAVIS INSTRUMENTS )
+    - Capteur de courant Alternatif ( SCT-013-000 )
+  
+  Les capteurs de tensions ainsi que le capteur de courant continu
+n'étant pas a notre disposition,
+nous n'avons pas pu faire de tests les concernants.
